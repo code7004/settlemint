@@ -1,0 +1,8 @@
+{
+  "app": "settlemint-app",
+  "source": "23d713d149bf821da4e69eebd4edfbf29de8556d",
+  "txstack": "eb7dd106874705af58ee234c5ce4be64a8f2e36a",
+  "builtAt": "2026-10-21T12:02:45Z",
+  "check": "pnpm check passed",
+  "scenarioSwitcher": true
+}
